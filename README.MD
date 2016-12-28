@@ -1,6 +1,3 @@
-# vehicle-rental-system
-Academic Project on Vehicle Rental System
-
 This is an academic project in the 5th semester of my B.Tech program.
 This is a complementary project for the course of Database Management System. The project uses MySQL for the database management and HTML,CSS and PHP for the front-end and interface to database.
 The project has features such as vehicle rented, vehicle available and history of rented along with person detail.
