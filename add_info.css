@@ -1,0 +1,9 @@
+#main_add {
+		padding: 30px 50px 30px 50px;
+		font-size: 15px;
+		float: right;
+
+  position: relative;
+  left: -64%; /* or right 50% */
+  text-align: left;
+}

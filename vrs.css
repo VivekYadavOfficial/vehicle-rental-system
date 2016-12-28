@@ -1,0 +1,72 @@
+* {
+	padding-left: 7px;
+}
+
+h1 {
+	color: red;
+	font-family: "sans-serif" Gadget,serif;
+}
+
+p * {
+	font-family: "serif", cursive;
+}
+
+#main1 {
+		padding: 30px 50px 30px 50px;
+		font-size: 18px;
+}
+
+#logo {
+	float: left;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+header {
+	text-align: center;
+	font-size: 40px;
+	float: center;
+	background-color: yellow;
+	margin: 8px;
+	border: 2px dotted #f2f3f4;
+}
+
+#some1 {
+		padding: 0px 50px 0px 0px;
+}
+
+#div1 {
+		border: 2px dotted #f1f2f3;
+		margin: 10px;
+}
+
+.orderlink {
+			float: right;
+			padding: 2px;
+			border: 2px solid orange;
+			background-color: purple;
+			color: skyblue;
+}
+
+#div3 {
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family: "Georgia", cursive;
+}
+
+.defaultlink {
+			float: left;
+			padding: 2px;
+			border: 2px solid orange;
+			background-color: purple;
+			color: skyblue;
+}
+
+#navigation {
+	padding: 2px;
+	text-align: center;
+	border: 2px solid orange;
+	background-color: #F0F8FF;
+	color: purple;
+
+}
